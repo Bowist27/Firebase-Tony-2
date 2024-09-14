@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Firebase-Tony-2</string>
+    <string name="no_account">Not have account? <b>Sign Up</b></string> <!--make signup bold, style-->
 </resources>
